@@ -36,3 +36,27 @@ Code Versioning Systems: Git and GitHub
 1. Started Research on how NLP(natural language processing) and Fuzzywuzzy algorithms can be used for processing the data and extracting them. By this particular feature, any user can autofill/prefill the data based on the credentials.
 2. As a part of extracting the data, we have done some research and tried to use third-party libraries like resume-parser and pyreparser.
 3. Tried using NLP for skills extraction with 70-80% of accuracy.
+
+### Sprint 5: Research-LER[Learning and employe records]
+1. Based on the client call for the validation on skills of particular individual, I done research on how their data can be maintained globally.
+2. Done research on and took references on LER from EMSI and MIT university.
+3. Basically, got insights on white paper and how these universities are maintaining by third-party libraries.
+4. Learnt how the digital credential systems work and store the credentials.
+5. Got to know how issuer issue the credential and how the learner accepts the credential digitally in either the form of badges and certifications.
+6. Only a couple of global companies are accessing this credential system. Researched on how digital wallets are stored in digital credentials from different sources.
+7. [Checkout the white paper on velocity](https://dev.d1lnakdl8cijq4.amplifyapp.com/)
+8. [Checkout the white paper on LERs](https://www.commerce.gov/sites/default/files/2020-09/LERwhitepaper09222020.pdf)
+
+### Sprint 6: Skills graph
+1. As a part of aspiration, I worked on skills mapping with the graph based on the demand and highest profiency of the skills.
+2. The main functionality, of using this page is, it gives the user an option to select the skills from  resume/ directly searches for the skill based on job titles and can map on the scale of 0-10.
+3. User will drag and drop the skill based on the profecincy.
+4. Designed the UI part based on the scale.
+
+### Sprint 7: User profile
+1. Reasearched for references on how to design the User profile page
+2. Started implementing the new user story, which is to create a User profile page
+3. In the user profile page, the user can fill in their personal details like About, Education, Work Experience
+4. The user can also add social accounts like Github, LinkedIN, Google.
+
+
