@@ -59,4 +59,9 @@ Code Versioning Systems: Git and GitHub
 3. In the user profile page, the user can fill in their personal details like About, Education, Work Experience
 4. The user can also add social accounts like Github, LinkedIN, Google.
 
+### Sprint 8: Authentication & functional components
+1. Reasearched for references on how to design the User profile page
+2. Given demo of the work that we have done for the past sprints
+3. Finally, we have done all the refinements regarding to authentication, integration etc..,
+
 
